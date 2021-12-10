@@ -1,5 +1,5 @@
 body{
-    background-color: #040218e8;
+    background-color: rgba(4, 2, 24, 0.91);
 }
 
 h3{background-color: #520404;
@@ -10,6 +10,9 @@ h3{background-color: #520404;
 h4{background-color: #520404;
     text-align: center;
     color: #ffffff;
+}
+
+script{color: #520404;
 }
 
 label {color: #ffffff;
