@@ -18,8 +18,13 @@ script{color: #520404;
 label {color: #ffffff;
 }
 
+.card-title{color: #7e7c7c;
+    font-weight: bold;
+    text-align: center;
+}
+
 .card-text{
-    color: #0e0d0d;
+    color: #7e7c7c;
     text-align:justify;  
     text-justify:initial;
     font-style: italic;
